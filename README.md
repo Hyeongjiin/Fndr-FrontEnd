@@ -28,11 +28,11 @@ Fndr서비스를 통해 사용자들은 원하는 국가, 비자지원 여부, �
 
 <br />
 
-[**🔗 서비스 소개 영상 바로가기 Click !**](https://youtu.be/Z1M5BK6jX6o) 
+[**🔗 서비스 소개 영상 바로가기 **](https://youtu.be/Z1M5BK6jX6o) 
 
-[**🔗 프론트엔드 저장소 바로가기 Click !**]([https://github.com/ssafy-mate/ssafy-mate_front-end](https://github.com/Seeds-kr/SWEVER-FrontEnd)) 
+[**🔗 프론트엔드 저장소 바로가기 **](https://github.com/Seeds-kr/SWEVER-FrontEnd)
 
-[**🔗 백엔드 저장소 바로가기 Click !**]([https://github.com/ssafy-mate/ssafy-mate_back-end](https://github.com/Seeds-kr/SWEVER-BackEnd)) 
+[**🔗 백엔드 저장소 바로가기 **](https://github.com/Seeds-kr/SWEVER-BackEnd)
 
 <br />
 
