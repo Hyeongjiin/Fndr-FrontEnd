@@ -86,7 +86,7 @@ Fndr서비스를 통해 사용자들은 원하는 국가, 비자지원 여부, �
 
 ##  시연 영상
 
-[**🔗 서비스 소개 영상 바로가기 Click !**](https://youtu.be/Z1M5BK6jX6o) 
+[**🔗 서비스 소개 영상 바로가기 **](https://youtu.be/Z1M5BK6jX6o) 
 
 <br />
 
